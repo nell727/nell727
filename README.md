@@ -30,6 +30,4 @@ I'm based in Malaysia and I build apps and automation tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logoColor=white)
 
 ### 📫 Reach me
-[email] · [LinkedIn]
-
-⚡ Fun fact: [something about you]
+harithhiew@gmail.com | Daniel Hiew on LinkedIn
